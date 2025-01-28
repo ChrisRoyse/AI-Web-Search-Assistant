@@ -151,8 +151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Chris Royse - www.linkedin.com/in/christopher-royse-b624b596 - arcibu@ksu.edu
 
-Project Link: [https://github.com/yourusername/ai-web-search-assistant](https://github.com/yourusername/ai-web-search-assistant)
-
 ---
 
 <div align="center">
